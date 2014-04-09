@@ -59,7 +59,7 @@ function setCurrentMenuItem(menu_item) {
 
 	var path = 'xml/' + menu_item.attr('id') + '.xml';
 	jQuery.get(path, function(data, textStatus, xhr) {
-		console.log(data);
+		// console.log(data);
 		$('div#content_envelope').empty();
 		$('div#content_envelope').append(data);
 	}, 'text');
