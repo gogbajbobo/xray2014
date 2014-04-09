@@ -1,0 +1,10 @@
+<ul id="menu">
+
+    <li id='main'>Общая информация</li>
+<!--     <li id='participants'>Участники</li>
+    <li id='papers'>Доклады</li>
+    <li id='schedule'>Программа</li>
+ -->    <li id='files'>Файлы</li>
+    <li id='contacts'>Адрес, телефоны</li>
+
+</ul>

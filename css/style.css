@@ -1,0 +1,359 @@
+body {
+    background-image: url(../background.jpg);
+    font-size: 1em;
+}
+
+.canvas {
+    max-width: 840px;
+    margin: auto;
+    padding: 1em 3em;
+}
+
+.preheader {
+    color: #fff;
+    border-bottom: solid thin hsla(125,80%,45%,.85);
+    border-top: solid thin hsla(135,60%,30%,.95);
+    font-family: sans-serif;
+    margin: 0 3em;
+    background: hsla(135,60%,30%,.95);
+        background: -webkit-gradient(linear, 0 top, 0 bottom, from(hsla(125,80%,45%,.85)), to(hsla(135,60%,30%,.95)));
+        -webkit-border-top-right-radius: 1em;
+        -webkit-border-top-left-radius: 1em;
+        -webkit-box-shadow: 6px 6px 3px hsla(130,20%,60%,.6);
+
+        background: -moz-linear-gradient(-90deg, hsla(125,80%,45%,.85), hsla(135,60%,30%,.95));
+        -moz-border-radius-topleft: 1em;
+        -moz-border-radius-topright: 1em;
+        -moz-box-shadow: 6px 6px 3px hsla(130,20%,60%,.6);
+        
+        border-top-right-radius: 1em;
+        border-top-left-radius: 1em;
+        box-shadow: 6px 6px 3px hsla(130,20%,60%,.6);
+}
+
+.preheader > span.iptm {
+    display: block;
+    text-align: center;
+    font-size: .6em;
+    padding: .2em;
+}
+
+span.iptm > a {
+    color: inherit;
+    text-decoration: none;
+}
+
+span.iptm > a:hover, span.iptm > a:focus, span.iptm > a:active {
+    color: inherit;
+    text-decoration: underline;
+    outline: none;
+}
+
+.header {
+    background-color: #fff;
+}
+
+.header_content {
+    color: #000;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 1.2em;
+    padding: 1em;
+    border-top: solid 5px hsla(60,80%,35%,1);
+    border-left: solid 5px hsla(60,80%,35%,1);
+    border-bottom: solid 5px hsla(60,80%,35%,1);
+    border-right: solid 5px hsla(60,80%,35%,1);
+    background-color: hsla(60,20%,95%,1);
+        background: -webkit-gradient(linear, 0 top, 0 bottom, from(hsla(60,10%,95%,1)), to(hsla(60,20%,90%,1)));
+        -webkit-border-top-right-radius: 1em;
+        -webkit-border-top-left-radius: 1em;
+        -webkit-box-shadow: 10px 10px 5px hsla(60,20%,60%,.4);
+        
+        background: -moz-linear-gradient(-90deg, hsla(60,10%,95%,1), hsla(60,20%,90%,1));
+        -moz-border-radius-topleft: 1em;
+        -moz-border-radius-topright: 1em;
+        -moz-box-shadow: 10px 10px 5px hsla(60,20%,60%,.4);
+        
+        border-top-right-radius: 1em;
+        border-top-left-radius: 1em;
+        box-shadow: 10px 10px 5px hsla(60,20%,60%,.4);
+}
+
+.header_content > span {
+    display: block;
+}
+
+ul#menu {
+    margin: 0;
+    padding: 0 0 0 .5em;
+    list-style-type: none;
+    font-family: sans-serif;
+    font-size: 1em;
+    height: 1.9em;
+}
+
+#menu > li {
+    display: block;
+    height: 1.2em;
+    float: left;
+    padding: .3em 1em;
+    margin: 0 1px;
+    color: #fff;
+    /*border-top: solid 3px #14d;*/
+    border-left: solid 2px hsla(125,80%,45%,.85);
+    border-bottom: solid 1px hsla(135,60%,30%,.95);
+    border-right: solid 2px hsla(135,60%,30%,.95);
+    background-color: hsla(135,60%,30%,.95);
+        background: -webkit-gradient(linear, 0 top, 0 bottom, from(hsla(125,80%,45%,.85)), to(hsla(135,60%,30%,.95)));
+        -webkit-border-bottom-right-radius: .5em;
+        -webkit-border-bottom-left-radius: .5em;
+        -webkit-box-shadow: 6px 6px 3px hsla(130,60%,30%,.25);
+
+        background: -moz-linear-gradient(-90deg, hsla(125,80%,45%,.85), hsla(135,60%,30%,.95));
+        -moz-border-radius-bottomleft: .5em;
+        -moz-border-radius-bottomright: .5em;
+        -moz-box-shadow: 6px 6px 3px hsla(130,60%,30%,.25);
+        
+        border-bottom-right-radius: .5em;
+        border-bottom-left-radius: .5em;
+        box-shadow: 6px 6px 3px hsla(130,60%,30%,.25);
+}
+
+#menu > li:hover, #menu > li:focus {
+    color: #fff;
+    /*border-top: solid 2px #13c;*/
+    border-left: solid 2px hsla(125,80%,40%,.85);
+    border-bottom: solid 1px hsla(135,60%,30%,.95);
+    border-right: solid 2px hsla(135,60%,30%,.95);
+    text-decoration: none;
+    background-color: hsla(135,60%,25%,.95);
+        background: -webkit-gradient(linear, 0 top, 0 bottom, from(hsla(125,80%,40%,.85)), to(hsla(135,60%,30%,.95)));
+        -webkit-box-shadow: 5px 5px 3px hsla(130,60%,30%,.275);
+    
+        background: -moz-linear-gradient(-90deg, hsla(125,80%,40%,.85), hsla(135,60%,30%,.95));
+        -moz-box-shadow: 5px 5px 3px hsla(130,60%,30%,.275);
+        
+        box-shadow: 5px 5px 3px hsla(130,60%,30%,.275);
+
+}
+
+#menu > li:active {
+    color: #eee;
+    /*border-top: solid 1px #02a;*/
+    border-left: solid 2px hsla(125,80%,35%,.85);
+    border-bottom: solid 1px hsla(135,60%,30%,.95);
+    border-right: solid 2px hsla(135,60%,30%,.95);
+    text-decoration: none;
+    background-color: hsla(135,60%,25%,.95);
+        background: -webkit-gradient(linear, 0 top, 0 bottom, from(hsla(125,80%,35%,.85)), to(hsla(135,60%,25%,.95)));
+        -webkit-box-shadow: 4px 4px 2px hsla(130,60%,30%,.3);
+
+        background: -moz-linear-gradient(-90deg, hsla(125,80%,35%,.85), hsla(135,60%,25%,.95));
+        -moz-box-shadow: 4px 4px 2px hsla(130,60%,30%,.3);
+        
+        box-shadow: 4px 4px 2px hsla(130,60%,30%,.3);
+
+}
+
+#menu > li.current_menu_item {
+    display: block;
+    height: 1.2em;
+    float: left;
+    padding: .3em 1em;
+    margin: 0 1px;
+    color: #fff;
+    /*border-top: solid 3px #1a2;*/
+    border-left: solid 2px hsla(60,80%,35%,1);
+    border-bottom: solid 1px hsla(60,80%,30%,1);
+    border-right: solid 2px hsla(60,80%,30%,1);
+    background-color: hsla(60,80%,35%,1);
+        background: -webkit-gradient(linear, 0 top, 0 bottom, from(hsla(60,80%,35%,1)), to(hsla(60,80%,30%,1)));
+        -webkit-border-bottom-right-radius: .5em;
+        -webkit-border-bottom-left-radius: .5em;
+        -webkit-box-shadow: 6px 6px 3px hsla(60,60%,30%,.25);
+
+        background: -moz-linear-gradient(-90deg, hsla(60,80%,35%,1), hsla(60,80%,30%,1));
+        -moz-border-radius-bottomleft: .5em;
+        -moz-border-radius-bottomright: .5em;
+        -moz-box-shadow: 6px 6px 3px hsla(60,60%,30%,.25);
+        
+        border-bottom-right-radius: .5em;
+        border-bottom-left-radius: .5em;
+        box-shadow: 6px 6px 3px hsla(60,60%,30%,.25);
+}
+
+
+#menu > li > a {
+    color: inherit;
+    text-decoration: none;
+    outline: none;
+}
+
+.content_envelope {
+    background-color: #fff;
+    margin: 1em 2em;
+}
+
+.content {
+    font-family: sans-serif;
+    padding: .5em 2em;
+    border: solid 2px hsla(60,80%,35%,1);
+    background-color: hsla(60,10%,95%,1);
+        -webkit-border-top-right-radius: .5em;
+        -webkit-border-top-left-radius: .5em;
+        -webkit-box-shadow: 6px 6px 2px hsla(60,20%,60%,.3);
+        
+        -moz-border-radius-topleft: .5em;
+        -moz-border-radius-topright: .5em;
+        -moz-box-shadow: 6px 6px 2px hsla(60,20%,60%,.3);
+        
+        border-top-right-radius: .5em;
+        border-top-left-radius: .5em;
+        box-shadow: 6px 6px 2px hsla(60,20%,60%,.3);
+}
+
+.footer {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: .6em;
+}
+
+.large {
+    font-size: 1.6em;
+}
+
+.small {
+    font-size: .8em;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
+
+.list {
+    margin-left: 2em;
+}
+
+.copyright {
+    color: #fff;
+    border-bottom: solid thin hsla(125,80%,45%,.85);
+    border-top: solid thin hsla(135,60%,30%,.95);
+    font-family: sans-serif;
+    padding: 1em .5em;
+    margin: 0 3em;
+    background: hsla(135,60%,30%,.95);
+        background: -webkit-gradient(linear, 0 top, 0 bottom, from(hsla(125,80%,45%,.85)), to(hsla(135,60%,30%,.95)));
+        -webkit-border-radius: 1em;
+        -webkit-box-shadow: 6px 6px 3px hsla(130,20%,60%,.6);
+
+        background: -moz-linear-gradient(-90deg, hsla(125,80%,45%,.85), hsla(135,60%,30%,.95));
+        -moz-border-radius: 1em;
+        -moz-box-shadow: 6px 6px 3px hsla(130,20%,60%,.6);
+        
+        border-radius: 1em;
+        box-shadow: 6px 6px 3px hsla(130,20%,60%,.6);
+}
+
+.copyright > a {
+    color: inherit;
+    text-decoration: none;
+    outline: none;
+}
+
+.copyright > a:hover, .copyright > a:focus, .copyright > a:active {
+    color: inherit;
+    text-decoration: underline;
+}
+.red {
+    color: #c00;
+}
+.authors {
+    font-style: italic;
+    font-size: .8em;
+}
+
+table.papers {
+    border-style:solid;
+    border-width:0px;
+    margin: 2em 0;
+    padding: .5em;
+    border-collapse: collapse;
+}
+
+table.participants {
+    border-style:solid;
+    border-width:0px;
+    margin: 1em 0;
+    padding: .5em;
+}
+
+tr {
+    border-bottom: solid black 1px;
+}
+
+th, td {
+    padding: .5em 1em;
+    text-align: left;
+    border-top: solid black 0px;
+    border-right: solid black 0px;
+    vertical-align:text-top;
+    font-size: .85em;
+}
+
+.organization_address {
+    font-size: .6em;
+}
+
+td.number, th.number {
+    display: none;
+}
+
+.organization_name {
+	font-size: .8em;
+}
+
+.organization_short_name {
+    font-size: .7em;
+}
+
+td.participant {
+    font-size: 0.8em;
+}
+
+.list > div {
+	margin-bottom: 1em;
+}
+
+span.org {display: block; font-style: italic; font-size: smaller; text-align: right;}
+
+.contacts_pic {
+    text-decoration: none;
+    outline: none;
+    font-size: 1.2em;
+}
+
+.shedule * {position: relative;}
+.day {margin: 1em 2em 0 2em;}
+.day > .date {font-weight: bold; color: #c00}
+.meeting {margin: 0.5em 0 0 5em;}
+.break {margin: 0.5em 0 0 5em;}
+.time {font-style: italic; font-size: smaller; left: -4em;}
+.meeting_header * , .break * {display: block; margin-top: .2em;}
+.meeting_title {font-weight: bold;}
+.meeting_chairman {text-align: right; font-size: smaller; font-weight: bold;}
+.meeting_participant {font-size: smaller; width: 8em;}
+table.meeting_content {border-spacing: 0 1em;}
+.break_title {color: #00c}
+.meeting_header_short * {line-height: 1.4em; font-size: smaller;}
+.meeting_header_short .meeting_number {display: none;}
+.shedule_short {display: none;}
+.shedule_short .meeting_chairman {display: none;}
+.shedule_short .time {left: -1em;}
+.meeting_header_short .meeting_title {text-indent: 2em;}
+.stand {font-size: smaller; margin: 0 5em;}
+.stand_number {display: block; font-weight: bold; margin-top: 1em;}
+.stand_participant {display: block; text-align: right;}
