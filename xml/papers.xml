@@ -1,0 +1,24 @@
+<div class="content">
+	<p class="text bold large">Список докладов</p>
+	<p class="text bold">На Конференцию подан <span class="red">1 доклад</span>.</p>
+	<div class="list">
+		<table class="info papers">
+			<tbody>
+				<tr>
+					<td class="paper">
+						<span class="authors">Голованов Д.Г.</span>
+						<br>
+						Современное рентгеновское оборудование фирмы Bruker AXS
+					</td>
+					<td class="participant">
+						Голованов Денис Геннадиевич
+						<br>
+						<span class="org">(ООО «Брукер»)</span>
+						<br>
+						<br>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>

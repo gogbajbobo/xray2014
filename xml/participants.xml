@@ -1,0 +1,15 @@
+<div class="content">
+	<p class="text bold large">Участники конференции</p>
+	<p class="text bold">Зарегистрирован <span class="red">1 участник</span> Конференции.</p>
+	<div class="list">
+		<div>
+			<span class="full_name bold">Голованов Денис Геннадиевич</span>
+			<br>
+			<span class="organization_name">Общество с ограниченной ответственностью «Брукер»</span>
+			<br>
+			<span class="organization_short_name">ООО «Брукер»</span>
+			<br>
+			<span class="organization_address">Россия, Москва</span>
+		</div>
+	</div>
+</div>
