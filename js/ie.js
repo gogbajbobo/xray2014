@@ -12,7 +12,7 @@ function showIEMessage() {
 	messageDiv.appendChild(br);
 
 	var messageSpan = document.createElement('span');
-	var message = document.createTextNode('К сожалению, вы используете Internet Explorer. Попробуйте любой другой браузер.');
+	var message = document.createTextNode('К сожалению, вы используете устаревшую версию Internet Explorer. Попробуйте любой другой браузер или Internet Explorer версии 9 и выше.');
 	messageSpan.appendChild(message);
 	messageDiv.appendChild(messageSpan);
 
