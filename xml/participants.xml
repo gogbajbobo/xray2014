@@ -1,15 +1,564 @@
 <div class="content">
 	<p class="text bold large">Участники конференции</p>
-	<p class="text bold">Зарегистрирован <span class="red">1 участник</span> Конференции.</p>
+	<p class="text bold">Зарегистрировано <span class="red">62 участника</span> Конференции.</p>
 	<div class="list">
+	<div>
+		<span class="full_name bold">Андреева Марина Алексеевна</span>
+		<br>
+		<span class="organization_name">Московский государственный университет имени М.В. Ломоносова</span>
+		<br>
+		<span class="organization_short_name">МГУ им. М.В.Ломоносова</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
 		<div>
-			<span class="full_name bold">Голованов Денис Геннадиевич</span>
-			<br>
-			<span class="organization_name">Общество с ограниченной ответственностью «Брукер»</span>
-			<br>
-			<span class="organization_short_name">ООО «Брукер»</span>
-			<br>
-			<span class="organization_address">Россия, Москва</span>
+		<span class="full_name bold">Аргунова Татьяна Сергеевна</span>
+		<br>
+		<span class="organization_name">Федеральное государственное бюджетное учреждение науки Физико-технический институт им. А.Ф. Иоффе</span>
+		<br>
+		<span class="organization_short_name">ФТИ им. А.Ф. Иоффе</span>
+		<br>
+		<span class="organization_address">Россия, Санкт-Петербург</span>
+		</div>
+		<div>
+		<span class="full_name bold">Асадчиков Виктор Евгеньевич</span>
+		<br>
+		<span class="organization_name">Федеральное государственное бюджетное  учреждение науки Институт кристаллографии им. А.В. Шубникова РАН</span>
+		<br>
+		<span class="organization_short_name">ИК РАН</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
+		<div>
+		<span class="full_name bold">Бузмаков Алексей Владимирович</span>
+		<br>
+		<span class="organization_name">Федеральное государственное бюджетное  учреждение науки Институт кристаллографии им. А.В. Шубникова РАН</span>
+		<br>
+		<span class="organization_short_name">ИК РАН</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
+		<div>
+		<span class="full_name bold">Бушуев Владимир Алексеевич</span>
+		<br>
+		<span class="organization_name">Московский государственный университет имени М.В. Ломоносова</span>
+		<br>
+		<span class="organization_short_name">МГУ им. М.В.Ломоносова</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
+		<div>
+		<span class="full_name bold">Вишняков Евгений Александрович</span>
+		<br>
+		<span class="organization_name">Федеральное государственное бюджетное учреждение науки Физический институт им.&nbsp;П.Н.Лебедева Российской академии наук</span>
+		<br>
+		<span class="organization_short_name">ФИАН</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
+		<div>
+		<span class="full_name bold">Волков Юрий Олегович</span>
+		<br>
+		<span class="organization_name">Федеральное государственное бюджетное  учреждение науки Институт кристаллографии им. А.В. Шубникова РАН</span>
+		<br>
+		<span class="organization_short_name">ИК РАН</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
+		<div>
+		<span class="full_name bold">Гойхман Александр Юрьевич</span>
+		<br>
+		<span class="organization_name">Научно-образовательный центр «Функциональные наноматериалы» Балтийского федерального Университета имени Иммануила Канта</span>
+		<br>
+		<span class="organization_short_name">НОЦ «ФН» БФУ им. И. Канта</span>
+		<br>
+		<span class="organization_address">Россия, Калининград</span>
+		</div>
+		<div>
+		<span class="full_name bold">Голованов Денис Геннадиевич</span>
+		<br>
+		<span class="organization_name">Общество с ограниченной ответственностью «Брукер»</span>
+		<br>
+		<span class="organization_short_name">ООО «Брукер»</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
+		<div>
+		<span class="full_name bold">Гольденберг Борис Григорьевич</span>
+		<br>
+		<span class="organization_name">Федеральное государственное бюджетное учреждение науки ИНСТИТУТ ЯДЕРНОЙ ФИЗИКИ им. Г.И. Будкера Сибирского отделения Российской академии наук</span>
+		<br>
+		<span class="organization_short_name">ИЯФ им. Будкера СО РАН</span>
+		<br>
+		<span class="organization_address">Россия, Новосибирск</span>
+		</div>
+		<div>
+		<span class="full_name bold">Горай Леонид Иванович</span>
+		<br>
+		<span class="organization_name">Санкт-Петербургский академический университет – научно-образовательный  центр нанотехнологий РАН</span>
+		<br>
+		<span class="organization_short_name">СПб АУ НОЦНТ РАН</span>
+		<br>
+		<span class="organization_address">Россия, Санкт-Петербург</span>
+		</div>
+		<div>
+		<span class="full_name bold">Дышеков Артур Альбекович</span>
+		<br>
+		<span class="organization_name">Кабардино-Балкарский государственный университет</span>
+		<br>
+		<span class="organization_short_name">КБГУ</span>
+		<br>
+		<span class="organization_address">Россия, Нальчик</span>
+		</div>
+		<div>
+		<span class="full_name bold">Егоров Владимир Константинович</span>
+		<br>
+		<span class="organization_name">Институт проблем технологии микроэлектроники и особочистых материалов Российской академии наук</span>
+		<br>
+		<span class="organization_short_name">ИПТМ РАН</span>
+		<br>
+		<span class="organization_address">Россия, Черноголовка</span>
+		</div>
+		<div>
+		<span class="full_name bold">Ершов Петр Александрович</span>
+		<br>
+		<span class="organization_name">Балтийский федеральный университет им. Канта</span>
+		<br>
+		<span class="organization_short_name">БФУ им.И.Канта</span>
+		<br>
+		<span class="organization_address">Россия, Калининград</span>
+		</div>
+		<div>
+		<span class="full_name bold">Золотов Денис Александрович</span>
+		<br>
+		<span class="organization_name">Федеральное государственное бюджетное  учреждение науки Институт кристаллографии им. А.В. Шубникова РАН</span>
+		<br>
+		<span class="organization_short_name">ИК РАН</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
+		<div>
+		<span class="full_name bold">Ильяшенко Максим Викторович</span>
+		<br>
+		<span class="organization_name">Институт прикладной физики Национальной академии наук Украины</span>
+		<br>
+		<span class="organization_short_name">ИПФ НАН Украины</span>
+		<br>
+		<span class="organization_address">Украина, Сумы</span>
+		</div>
+		<div>
+		<span class="full_name bold">Иржак Дмитрий Вадимович</span>
+		<br>
+		<span class="organization_name">Институт проблем технологии микроэлектроники и особочистых материалов Российской академии наук</span>
+		<br>
+		<span class="organization_short_name">ИПТМ РАН</span>
+		<br>
+		<span class="organization_address">Россия, Черноголовка</span>
+		</div>
+		<div>
+		<span class="full_name bold">Казаков Дмитрий Витальевич</span>
+		<br>
+		<span class="organization_name">Отдел математики ФГБУН «Коми научный центр Уральского отделения РАН»</span>
+		<br>
+		<span class="organization_short_name">ОМ Коми НЦ УрО РАН</span>
+		<br>
+		<span class="organization_address">Россия, Сыктывкар</span>
+		</div>
+		<div>
+		<span class="full_name bold">Калоян Александр Альбертович</span>
+		<br>
+		<span class="organization_name">Научно-исследовательский центр «Курчатовский институт»</span>
+		<br>
+		<span class="organization_short_name">НИЦ КИ</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
+		<div>
+		<span class="full_name bold">Карпов Андрей Вячеславович</span>
+		<br>
+		<span class="organization_name">Отдел математики ФГБУН «Коми научный центр Уральского отделения РАН»</span>
+		<br>
+		<span class="organization_short_name">ОМ Коми НЦ УрО РАН</span>
+		<br>
+		<span class="organization_address">Россия, Сыктывкар</span>
+		</div>
+		<div>
+		<span class="full_name bold">Коваленко Екатерина Сергеевна</span>
+		<br>
+		<span class="organization_name">Научно-исследовательский центр «Курчатовский институт»</span>
+		<br>
+		<span class="organization_short_name">НИЦ КИ</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
+		<div>
+		<span class="full_name bold">Кон Виктор Германович</span>
+		<br>
+		<span class="organization_name">Научно-исследовательский центр «Курчатовский институт»</span>
+		<br>
+		<span class="organization_short_name">НИЦ КИ</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
+		<div>
+		<span class="full_name bold">Кочарян Ваган Рашидович</span>
+		<br>
+		<span class="organization_name">Институт прикладных проблем физики НАН РА</span>
+		<br>
+		<span class="organization_short_name">ИППФ НАН РА</span>
+		<br>
+		<span class="organization_address">Армения, Ереван</span>
+		</div>
+		<div>
+		<span class="full_name bold">Кузнецов Сергей Михайлович</span>
+		<br>
+		<span class="organization_name">Институт проблем технологии микроэлектроники и особочистых материалов Российской академии наук</span>
+		<br>
+		<span class="organization_short_name">ИПТМ РАН</span>
+		<br>
+		<span class="organization_address">Россия, Черноголовка</span>
+		</div>
+		<div>
+		<span class="full_name bold">Ломов Андрей Александрович</span>
+		<br>
+		<span class="organization_name">Федеральное государственное бюджетное учреждение науки Физико-технологический институт Российской академии наук</span>
+		<br>
+		<span class="organization_short_name">ФТИАН РАН</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
+		<div>
+		<span class="full_name bold">Любомирский Михаил Андреевич</span>
+		<br>
+		<span class="organization_name">Европейский Центр Синхротронного Излучения</span>
+		<br>
+		<span class="organization_short_name">ESRF</span>
+		<br>
+		<span class="organization_address">Франция, Гренобль</span>
+		</div>
+		<div>
+		<span class="full_name bold">Лятун Иван Игоревич</span>
+		<br>
+		<span class="organization_name">Научно-образовательный центр «Функциональные наноматериалы» Балтийского федерального Университета имени Иммануила Канта</span>
+		<br>
+		<span class="organization_short_name">НОЦ «ФН» БФУ им. И. Канта</span>
+		<br>
+		<span class="organization_address">Россия, Калининград</span>
+		</div>
+		<div>
+		<span class="full_name bold">Медведева Светлана Сергеевна</span>
+		<br>
+		<span class="organization_name">Научно-образовательный центр «Функциональные наноматериалы» Балтийского федерального Университета имени Иммануила Канта</span>
+		<br>
+		<span class="organization_short_name">НОЦ «ФН» БФУ им. И. Канта</span>
+		<br>
+		<span class="organization_address">Россия, Калининград</span>
+		</div>
+		<div>
+		<span class="full_name bold">Митрофанов Александр Викторович</span>
+		<br>
+		<span class="organization_name">Федеральное государственное бюджетное учреждение науки Физический институт им.&nbsp;П.Н.Лебедева Российской академии наук</span>
+		<br>
+		<span class="organization_short_name">ФИАН</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
+		<div>
+		<span class="full_name bold">Мурадян Тигран Рафаелович</span>
+		<br>
+		<span class="organization_name">Институт прикладных проблем физики НАН РА</span>
+		<br>
+		<span class="organization_short_name">ИППФ НАН РА</span>
+		<br>
+		<span class="organization_address">Армения, Ереван</span>
+		</div>
+		<div>
+		<span class="full_name bold">Некипелов Сергей Вячеславович</span>
+		<br>
+		<span class="organization_name">Федеральное государственное бюджетное образовательное учреждение высшего профессионального образования «Сыктывкарский государственный университет»</span>
+		<br>
+		<span class="organization_short_name">ФГБОУ ВПО «СыктГУ»</span>
+		<br>
+		<span class="organization_address">Россия, Сыктывкар</span>
+		</div>
+		<div>
+		<span class="full_name bold">Огнев Леонид Иванович</span>
+		<br>
+		<span class="organization_name">Научно-исследовательский центр «Курчатовский институт»</span>
+		<br>
+		<span class="organization_short_name">НИЦ КИ</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
+		<div>
+		<span class="full_name bold">Петрова Ольга Викторовна</span>
+		<br>
+		<span class="organization_name">Коми научный центр Уральского отделения РАН</span>
+		<br>
+		<span class="organization_short_name">КНЦ УрО РАН</span>
+		<br>
+		<span class="organization_address">Россия, Сыктывкар</span>
+		</div>
+		<div>
+		<span class="full_name bold">Поликарпов Максим Валерьевич</span>
+		<br>
+		<span class="organization_name">Балтийский федеральный университет им. Канта</span>
+		<br>
+		<span class="organization_short_name">БФУ им.И.Канта</span>
+		<br>
+		<span class="organization_address">Россия, Калининград</span>
+		</div>
+		<div>
+		<span class="full_name bold">Полковников Владимир Николаевич</span>
+		<br>
+		<span class="organization_name">Институт физики микроструктур РАН</span>
+		<br>
+		<span class="organization_short_name">ИФМ РАН</span>
+		<br>
+		<span class="organization_address">Россия, Нижний Новгород</span>
+		</div>
+		<div>
+		<span class="full_name bold">Прохоров Игорь Алексеевич</span>
+		<br>
+		<span class="organization_name">Филиал Федерального государственного бюджетного учреждения науки Института кристаллографии им. А.В. Шубникова Российской академии наук Научно-исследовательский центр «Космическое материаловедение»</span>
+		<br>
+		<span class="organization_short_name">ФИК РАН НИЦ КМ</span>
+		<br>
+		<span class="organization_address">Россия, Калуга</span>
+		</div>
+		<div>
+		<span class="full_name bold">Прун Виктор Евгеньевич</span>
+		<br>
+		<span class="organization_name">Федеральное государственное образовательное учреждение высшего профессионального образования &nbsp;«Московский физико-технический институт (государственный университет)»</span>
+		<br>
+		<span class="organization_short_name">МФТИ (ГУ)</span>
+		<br>
+		<span class="organization_address">Россия, Долгопрудный</span>
+		</div>
+		<div>
+		<span class="full_name bold">Пунегов Василий Ильич</span>
+		<br>
+		<span class="organization_name">Коми научный центр Уральского отделения РАН</span>
+		<br>
+		<span class="organization_short_name">КНЦ УрО РАН</span>
+		<br>
+		<span class="organization_address">Россия, Сыктывкар</span>
+		</div>
+		<div>
+		<span class="full_name bold">Репченко Юрий Леонидович</span>
+		<br>
+		<span class="organization_name">Воронежский Государственный Университет</span>
+		<br>
+		<span class="organization_short_name">ВГУ</span>
+		<br>
+		<span class="organization_address">Россия, Воронеж</span>
+		</div>
+		<div>
+		<span class="full_name bold">Рощин Борис Сергеевич</span>
+		<br>
+		<span class="organization_name">Федеральное государственное бюджетное  учреждение науки Институт кристаллографии им. А.В. Шубникова РАН</span>
+		<br>
+		<span class="organization_short_name">ИК РАН</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
+		<div>
+		<span class="full_name bold">Рощупкин Дмитрий Валентинович</span>
+		<br>
+		<span class="organization_name">Институт проблем технологии микроэлектроники и особочистых материалов Российской академии наук</span>
+		<br>
+		<span class="organization_short_name">ИПТМ РАН</span>
+		<br>
+		<span class="organization_address">Россия, Черноголовка</span>
+		</div>
+		<div>
+		<span class="full_name bold">Семенов Александр Александрович</span>
+		<br>
+		<span class="organization_name">Высокотехнологичный научно-исследовательский институт неорганических материалов</span>
+		<br>
+		<span class="organization_short_name">ОАО «ВНИИНМ»</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
+		<div>
+		<span class="full_name bold">Сивков Виктор Николаевич</span>
+		<br>
+		<span class="organization_name">Коми научный центр Уральского отделения РАН</span>
+		<br>
+		<span class="organization_short_name">КНЦ УрО РАН</span>
+		<br>
+		<span class="organization_address">Россия, Сыктывкар</span>
+		</div>
+		<div>
+		<span class="full_name bold">Сивков Данил Викторович</span>
+		<br>
+		<span class="organization_name">Отдел математики ФГБУН «Коми научный центр Уральского отделения РАН»</span>
+		<br>
+		<span class="organization_short_name">ОМ Коми НЦ УрО РАН</span>
+		<br>
+		<span class="organization_address">Россия, Сыктывкар</span>
+		</div>
+		<div>
+		<span class="full_name bold">Смирнова Ирина Алексеевна</span>
+		<br>
+		<span class="organization_name">Учреждение Российской академии наук Институт физики твердого тела РАН</span>
+		<br>
+		<span class="organization_short_name">ИФТТ РАН</span>
+		<br>
+		<span class="organization_address">Россия, Черноголовка</span>
+		</div>
+		<div>
+		<span class="full_name bold">Снигирев Анатолий </span>
+		<br>
+		<span class="organization_name">Европейский Центр Синхротронного Излучения</span>
+		<br>
+		<span class="organization_short_name">ESRF</span>
+		<br>
+		<span class="organization_address">Франция, Гренобль</span>
+		</div>
+		<div>
+		<span class="full_name bold">Снигирева Ирина </span>
+		<br>
+		<span class="organization_name">Европейский Центр Синхротронного Излучения</span>
+		<br>
+		<span class="organization_short_name">ESRF</span>
+		<br>
+		<span class="organization_address">Франция, Гренобль</span>
+		</div>
+		<div>
+		<span class="full_name bold">Суворов Эрнест Витальевич</span>
+		<br>
+		<span class="organization_name">Учреждение Российской академии наук Институт физики твердого тела РАН</span>
+		<br>
+		<span class="organization_short_name">ИФТТ РАН</span>
+		<br>
+		<span class="organization_address">Россия, Черноголовка</span>
+		</div>
+		<div>
+		<span class="full_name bold">Ткаль Валерий Алексеевич</span>
+		<br>
+		<span class="organization_name">Новгородский филиал Санкт-Петербургского государственного экономического университета </span>
+		<br>
+		<span class="organization_short_name">филиал СПбГЭУ в г. В. Новгороде</span>
+		<br>
+		<span class="organization_address">Россия, Великий Новгород</span>
+		</div>
+		<div>
+		<span class="full_name bold">Фахртдинов Рашид Рашидович</span>
+		<br>
+		<span class="organization_name">Институт проблем технологии микроэлектроники и особочистых материалов Российской академии наук</span>
+		<br>
+		<span class="organization_short_name">ИПТМ РАН</span>
+		<br>
+		<span class="organization_address">Россия, Черноголовка</span>
+		</div>
+		<div>
+		<span class="full_name bold">Франк Александр Ильич</span>
+		<br>
+		<span class="organization_name">Лаборатория нейтронной физики имени И.М.Франка Объединенного института ядерных исследований</span>
+		<br>
+		<span class="organization_short_name">ЛНФ имени И.М.Франка, ОИЯИ</span>
+		<br>
+		<span class="organization_address">Россия, Дубна</span>
+		</div>
+		<div>
+		<span class="full_name bold">Хапачев Юрий Пшиканович</span>
+		<br>
+		<span class="organization_name">Кабардино-Балкарский государственный университет</span>
+		<br>
+		<span class="organization_short_name">КБГУ</span>
+		<br>
+		<span class="organization_address">Россия, Нальчик</span>
+		</div>
+		<div>
+		<span class="full_name bold">Хлопузян Саргис Грачикович</span>
+		<br>
+		<span class="organization_name">Институт прикладных проблем физики НАН РА</span>
+		<br>
+		<span class="organization_short_name">ИППФ НАН РА</span>
+		<br>
+		<span class="organization_address">Армения, Ереван</span>
+		</div>
+		<div>
+		<span class="full_name bold">Цыбин Николай Николаевич</span>
+		<br>
+		<span class="organization_name">Институт физики микроструктур РАН</span>
+		<br>
+		<span class="organization_short_name">ИФМ РАН</span>
+		<br>
+		<span class="organization_address">Россия, Нижний Новгород</span>
+		</div>
+		<div>
+		<span class="full_name bold">Чукалина Марина Валерьевна</span>
+		<br>
+		<span class="organization_name">Институт проблем технологии микроэлектроники и особочистых материалов Российской академии наук</span>
+		<br>
+		<span class="organization_short_name">ИПТМ РАН</span>
+		<br>
+		<span class="organization_address">Россия, Черноголовка</span>
+		</div>
+		<div>
+		<span class="full_name bold">Чхало Николай Иванович</span>
+		<br>
+		<span class="organization_name">Институт физики микроструктур РАН</span>
+		<br>
+		<span class="organization_short_name">ИФМ РАН</span>
+		<br>
+		<span class="organization_address">Россия, Нижний Новгород</span>
+		</div>
+		<div>
+		<span class="full_name bold">Шатохин Алексей Николаевич</span>
+		<br>
+		<span class="organization_name">Федеральное государственное бюджетное учреждение науки Физический институт им.&nbsp;П.Н.Лебедева Российской академии наук</span>
+		<br>
+		<span class="organization_short_name">ФИАН</span>
+		<br>
+		<span class="organization_address">Россия, Москва</span>
+		</div>
+		<div>
+		<span class="full_name bold">Шмытько Иван Михайлович</span>
+		<br>
+		<span class="organization_name">Учреждение Российской академии наук Институт физики твердого тела РАН</span>
+		<br>
+		<span class="organization_short_name">ИФТТ РАН</span>
+		<br>
+		<span class="organization_address">Россия, Черноголовка</span>
+		</div>
+		<div>
+		<span class="full_name bold">Шульпина Ирэн Леонидовна</span>
+		<br>
+		<span class="organization_name">Федеральное государственное бюджетное учреждение науки Физико-технический институт им. А.Ф. Иоффе</span>
+		<br>
+		<span class="organization_short_name">ФТИ им. А.Ф. Иоффе</span>
+		<br>
+		<span class="organization_address">Россия, Санкт-Петербург</span>
+		</div>
+		<div>
+		<span class="full_name bold">Щербаков Александр Викторович</span>
+		<br>
+		<span class="organization_name">Институт физики микроструктур РАН</span>
+		<br>
+		<span class="organization_short_name">ИФМ РАН</span>
+		<br>
+		<span class="organization_address">Россия, Нижний Новгород</span>
+		</div>
+		<div>
+		<span class="full_name bold">Юнкин Вячеслав Анатольевич</span>
+		<br>
+		<span class="organization_name">Институт проблем технологии микроэлектроники и особочистых материалов Российской академии наук</span>
+		<br>
+		<span class="organization_short_name">ИПТМ РАН</span>
+		<br>
+		<span class="organization_address">Россия, Черноголовка</span>
+		</div>
+		<div>
+		<span class="full_name bold">Юркевич Оксана Витальевна</span>
+		<br>
+		<span class="organization_name">Научно-образовательный центр «Функциональные наноматериалы» Балтийского федерального Университета имени Иммануила Канта</span>
+		<br>
+		<span class="organization_short_name">НОЦ «ФН» БФУ им. И. Канта</span>
+		<br>
+		<span class="organization_address">Россия, Калининград</span>
+		</div>
 		</div>
 	</div>
-</div>
